@@ -30,7 +30,7 @@ async function consultarNominatim(endereco, nivel) {
     method: "GET",
     headers: {
       "Accept": "application/json",
-      "User-Agent": "API-CEP/1.0 csinho.01@gmail.com"
+      "User-Agent": "API-CEP/1.1 csinho.01@gmail.com"
     }
   });
 
